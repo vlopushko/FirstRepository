@@ -1,1 +1,2 @@
 Hello from add-feature1 branch!
+Line from user1 - rebase lesson
